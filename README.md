@@ -17,5 +17,5 @@ The students are expected to be familiar with the basics of Python programming l
 
 | Week | Module | Date | Practicals link | Instructor |
 |------|--------|---------|---------|---------|
-| 1    | Introduction to Linguistics  |     20/01    | [Linguistic diversity](https://colab.research.google.com/drive/1TTj5sfpXoy65KxdT_ti-1z0JJ7HDBFvD?usp=sharing)     | AK |
+| 1    | Introduction to Linguistics  |     20/01    | [Linguistic diversity](https://colab.research.google.com/drive/1m5NTE1hmmEouzABKVzeFYEC4sihK4mCr?usp=sharing)     | AK |
 
