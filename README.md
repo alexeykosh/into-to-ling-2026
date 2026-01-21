@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains practicals for the course "Introduction to linguistics trough data science" taught at the CPES program at ENS-PSL during the Autumn semester of 2025-2026.
+This repository contains practicals for the course "Introduction to linguistics trough data science" taught at the CPES program at ENS-PSL during the Spring semester of 2025-2026.
 
 ## Prerequisites  
 
